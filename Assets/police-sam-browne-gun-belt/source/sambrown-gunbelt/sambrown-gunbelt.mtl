@@ -1,0 +1,79 @@
+# Blender MTL File: 'None'
+# Material Count: 7
+
+newmtl Flashlightpouch
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075758 0.075758 0.075758
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\ERIC S\\Documents\\Blender\\Flashlightpouch\\flashlightpouch.png
+
+newmtl gunbelt
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.039394 0.039394 0.039394
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\ERIC S\\Documents\\Blender\\sambrownbelt\\sambrownbelt_co.png
+
+newmtl handcuffcase
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.178788 0.178788 0.178788
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\ERIC S\\Documents\\Blender\\sambrownbelt\\handcuffcase.png
+
+newmtl holster
+Ns 103.177221
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.106061 0.106061 0.106061
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\ERIC S\\Documents\\Blender\\92Fholster\\UM92holster.png
+
+newmtl magpouch
+Ns 41.221298
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.112121 0.112121 0.112121
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd magpouch.png
+
+newmtl radio
+Ns 7.722688
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.139394 0.139394 0.139394
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\ERIC S\\Documents\\Blender\\Motorola HT 1000\\radio.png
+
+newmtl radiopouch
+Ns 35.298439
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.109091 0.109091 0.109091
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\ERIC S\\Documents\\Blender\\Motorola HT 1000\\radiopouch.png
